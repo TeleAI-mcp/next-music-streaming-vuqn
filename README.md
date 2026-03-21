@@ -1,2 +1,3 @@
-# next-music-streaming-vuqn
-A music streaming service for modern development workflows
+# Next Music Streaming Vuqn
+
+A music streaming service for modern development workflows.
